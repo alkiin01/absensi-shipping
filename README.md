@@ -1,1 +1,1 @@
-# thispage using ajax and CodeIgniter framework
+# This page using ajax and CodeIgniter framework
